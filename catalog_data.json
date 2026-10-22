@@ -7,7 +7,7 @@
     "storeAddress": "Cl. 33 Sur #87g 23, Bogotá",
     "address": "Cl. 33 Sur #87g 23, Bogotá",
     "mapUrl": "https://maps.app.goo.gl/wALSxwLdFwvwpq1L7",
-    "email": "Pelutidos@stysofia.com",
+    "email": "soporte@peluditosypatitas.com",
     "facebookUrl": "https://www.facebook.com/share/1Dq8vZ2C3A/",
     "instagramUrl": "#",
     "storeCity": "Bogotá",
@@ -98,15 +98,15 @@
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 1,
-      "cost_per_base_unit": 0,
+      "current_stock": 2,
+      "cost_per_base_unit": 31600,
       "price_per_base_unit": 37000,
       "price_per_pound": null,
       "price_per_package": null,
       "promo": null,
       "image": "/data/images/prod_1792042056466_teq5.jpg",
       "created_at": "2026-10-15 05:27:36",
-      "updated_at": "2026-10-15 05:27:36"
+      "updated_at": "2026-10-20 21:34:30"
     },
     {
       "id": "P-1792468765094",
@@ -224,15 +224,15 @@
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 0,
-      "cost_per_base_unit": 0,
+      "current_stock": 1,
+      "cost_per_base_unit": 31200,
       "price_per_base_unit": 37000,
       "price_per_pound": null,
       "price_per_package": null,
       "promo": null,
       "image": "/data/images/prod_1792042129371_yipx.jpg",
       "created_at": "2026-10-15 05:28:49",
-      "updated_at": "2026-10-19 19:04:29"
+      "updated_at": "2026-10-20 21:35:35"
     },
     {
       "id": "P-1789953325242",
@@ -242,7 +242,7 @@
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 1,
+      "current_stock": 5,
       "cost_per_base_unit": 11000,
       "price_per_base_unit": 14000,
       "price_per_pound": null,
@@ -250,7 +250,7 @@
       "promo": null,
       "image": "/data/images/cloud_P-1789953325242_15c60ead.jpg",
       "created_at": "2026-09-21 01:15:30",
-      "updated_at": "2026-10-19 19:05:51"
+      "updated_at": "2026-10-20 20:59:58"
     },
     {
       "id": "P-1789953259305",
@@ -305,6 +305,60 @@
       "image": "/data/images/cloud_P-1789953215697_bf40aa91.jpg",
       "created_at": "2026-09-21 01:13:40",
       "updated_at": "2026-10-20 00:25:57"
+    },
+    {
+      "id": "P-1792470313277",
+      "name": "Arena Calabaza Olor Lavanda 10kg",
+      "category": "comida_de_mascotas",
+      "sku": "6439244515505",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 2,
+      "cost_per_base_unit": 22850,
+      "price_per_base_unit": 27000,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792470313224_lgsz.jpg",
+      "created_at": "2026-10-20 04:25:13",
+      "updated_at": "2026-10-20 04:25:13"
+    },
+    {
+      "id": "P-1792470084956",
+      "name": "Arena Calabaza Olor Talco 10kg",
+      "category": "comida_de_mascotas",
+      "sku": "4118300038614",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 2,
+      "cost_per_base_unit": 22850,
+      "price_per_base_unit": 27000,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792470084939_b3l1.jpg",
+      "created_at": "2026-10-20 04:21:24",
+      "updated_at": "2026-10-20 04:21:24"
+    },
+    {
+      "id": "P-1792470237290",
+      "name": "Arena Calabaza Olor Vainilla 10kg",
+      "category": "comida_de_mascotas",
+      "sku": "6237132282247",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 2,
+      "cost_per_base_unit": 22850,
+      "price_per_base_unit": 27000,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792470237264_c9wp.jpg",
+      "created_at": "2026-10-20 04:23:57",
+      "updated_at": "2026-10-20 04:23:57"
     },
     {
       "id": "P-1789953165859",
@@ -368,7 +422,7 @@
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 4,
+      "current_stock": 3,
       "cost_per_base_unit": 12000,
       "price_per_base_unit": 14500,
       "price_per_pound": null,
@@ -376,7 +430,7 @@
       "promo": null,
       "image": "/data/images/prod_1792466430530_ael6.jpg",
       "created_at": "2026-10-20 03:20:30",
-      "updated_at": "2026-10-20 03:20:30"
+      "updated_at": "2026-10-21 01:03:51"
     },
     {
       "id": "P-1792466583966",
@@ -656,7 +710,7 @@
       "sale_mode": "fractional_weight",
       "package_name": "Bulto x25 kg",
       "package_size": 25,
-      "current_stock": 11.073,
+      "current_stock": 7.1450000000000005,
       "cost_per_base_unit": 6200,
       "price_per_base_unit": 8400,
       "price_per_pound": 4200,
@@ -664,7 +718,7 @@
       "promo": null,
       "image": "/data/images/cloud_P-1790098413543_85954cad.jpg",
       "created_at": "2026-09-22 17:33:33",
-      "updated_at": "2026-10-16 23:08:10"
+      "updated_at": "2026-10-21 01:04:47"
     },
     {
       "id": "P-1792040977513",
@@ -818,7 +872,7 @@
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 70,
+      "current_stock": 68,
       "cost_per_base_unit": 75,
       "price_per_base_unit": 200,
       "price_per_pound": null,
@@ -826,7 +880,7 @@
       "promo": null,
       "image": "/data/images/prod_1792020070581_faw1.jpg",
       "created_at": "2026-09-23 03:46:00",
-      "updated_at": "2026-10-14 23:21:10"
+      "updated_at": "2026-10-20 23:36:55"
     },
     {
       "id": "P-1791073934660",
@@ -1243,6 +1297,24 @@
       "updated_at": "2026-10-18 20:35:04"
     },
     {
+      "id": "P-1792471842114",
+      "name": "Dogourmet Sabor Carne Adulto 9kg",
+      "category": "comida_de_mascotas",
+      "sku": "5268132766783",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 1,
+      "cost_per_base_unit": 67500,
+      "price_per_base_unit": 80000,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792471842084_fy2z.jpg",
+      "created_at": "2026-10-20 04:50:42",
+      "updated_at": "2026-10-20 04:50:42"
+    },
+    {
       "id": "P-1789957359685",
       "name": "Dogourmet perro adulto  Carne",
       "category": "comida_de_mascotas",
@@ -1369,6 +1441,42 @@
       "updated_at": "2026-09-23 13:31:56"
     },
     {
+      "id": "P-1792471270438",
+      "name": "Don kat Adultos  7 kilos",
+      "category": "comida_de_mascotas",
+      "sku": "8633025176563",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 1,
+      "cost_per_base_unit": 59400,
+      "price_per_base_unit": 71000,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792471270393_iosv.jpg",
+      "created_at": "2026-10-20 04:41:10",
+      "updated_at": "2026-10-20 04:41:10"
+    },
+    {
+      "id": "P-1792471178055",
+      "name": "Don kat Gaticos 7 kilos",
+      "category": "comida_de_mascotas",
+      "sku": "8312376011387",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 1,
+      "cost_per_base_unit": 72950,
+      "price_per_base_unit": 84000,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792471178014_zc95.jpg",
+      "created_at": "2026-10-20 04:39:38",
+      "updated_at": "2026-10-20 04:39:38"
+    },
+    {
       "id": "P-1789964173683",
       "name": "Donkan Perro Adulto",
       "category": "comida_de_mascotas",
@@ -1394,7 +1502,7 @@
       "sale_mode": "fractional_weight",
       "package_name": "Bulto x25 kg",
       "package_size": 25,
-      "current_stock": 25,
+      "current_stock": 24.723,
       "cost_per_base_unit": 4960,
       "price_per_base_unit": 7200,
       "price_per_pound": 3600,
@@ -1402,7 +1510,7 @@
       "promo": null,
       "image": "/data/images/cloud_P-1789957572645_864c9761.jpg",
       "created_at": "2026-09-21 02:26:17",
-      "updated_at": "2026-09-23 03:15:26"
+      "updated_at": "2026-10-20 23:43:28"
     },
     {
       "id": "P-1790135057266",
@@ -1412,7 +1520,7 @@
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 100,
+      "current_stock": 97,
       "cost_per_base_unit": 70,
       "price_per_base_unit": 200,
       "price_per_pound": null,
@@ -1420,7 +1528,7 @@
       "promo": null,
       "image": "/data/images/cloud_P-1790135057266_02d9ed36.jpg",
       "created_at": "2026-09-23 03:44:17",
-      "updated_at": "2026-10-14 23:08:25"
+      "updated_at": "2026-10-20 23:36:55"
     },
     {
       "id": "P-1790171049028",
@@ -1448,7 +1556,7 @@
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 7,
+      "current_stock": 6,
       "cost_per_base_unit": 2300,
       "price_per_base_unit": 3200,
       "price_per_pound": null,
@@ -1456,7 +1564,7 @@
       "promo": null,
       "image": "/data/images/cloud_P-1790169647727_9b6ba756.jpg",
       "created_at": "2026-09-23 13:20:48",
-      "updated_at": "2026-10-14 21:53:27"
+      "updated_at": "2026-10-22 01:04:44"
     },
     {
       "id": "P-1790168996340",
@@ -1592,7 +1700,7 @@
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 26,
+      "current_stock": 24,
       "cost_per_base_unit": 1166,
       "price_per_base_unit": 2000,
       "price_per_pound": null,
@@ -1600,7 +1708,7 @@
       "promo": null,
       "image": "/data/images/cloud_P-1790135355170_38c6cea6.jpg",
       "created_at": "2026-09-23 03:49:15",
-      "updated_at": "2026-10-14 23:26:24"
+      "updated_at": "2026-10-21 22:46:01"
     },
     {
       "id": "P-1790888648180",
@@ -1772,7 +1880,7 @@
       "sale_mode": "fractional_weight",
       "package_name": "Bulto x10.1 kg",
       "package_size": 10.1,
-      "current_stock": 9.86,
+      "current_stock": 9.427999999999999,
       "cost_per_base_unit": 17248,
       "price_per_base_unit": 20800,
       "price_per_pound": 10400,
@@ -1780,7 +1888,7 @@
       "promo": null,
       "image": "/data/images/cloud_P-1790171696717_baa7312f.jpg",
       "created_at": "2026-09-23 13:54:57",
-      "updated_at": "2026-10-14 22:47:24"
+      "updated_at": "2026-10-20 20:16:43"
     },
     {
       "id": "P-1790096908173",
@@ -1808,7 +1916,7 @@
       "sale_mode": "fractional_weight",
       "package_name": "Bulto x15 kg",
       "package_size": 15,
-      "current_stock": 14.616,
+      "current_stock": 14.232,
       "cost_per_base_unit": 11707,
       "price_per_base_unit": 13000,
       "price_per_pound": 6500,
@@ -1816,7 +1924,7 @@
       "promo": null,
       "image": "/data/images/prod_1792018275932_pd1k.jpg",
       "created_at": "2026-09-23 13:50:55",
-      "updated_at": "2026-10-14 22:51:15"
+      "updated_at": "2026-10-21 18:25:50"
     },
     {
       "id": "P-1790172318068",
@@ -1927,6 +2035,24 @@
       "updated_at": "2026-09-23 13:48:25"
     },
     {
+      "id": "P-1792471567335",
+      "name": "Nutrecan Adultos Home 8kg",
+      "category": "comida_de_mascotas",
+      "sku": "7305514672551",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 1,
+      "cost_per_base_unit": 66500,
+      "price_per_base_unit": 79000,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792471567303_b1rf.jpg",
+      "created_at": "2026-10-20 04:46:07",
+      "updated_at": "2026-10-20 04:46:07"
+    },
+    {
       "id": "P-1792021314661",
       "name": "Nutrecan Croquetas",
       "category": "comida_de_mascotas",
@@ -1961,6 +2087,24 @@
       "image": "/data/images/prod_1792021422787_i5xa.jpg",
       "created_at": "2026-10-14 23:43:42",
       "updated_at": "2026-10-14 23:43:42"
+    },
+    {
+      "id": "P-1792471023154",
+      "name": "Nutrecat Home 8kg",
+      "category": "comida_de_mascotas",
+      "sku": "1309204379841",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 1,
+      "cost_per_base_unit": 84900,
+      "price_per_base_unit": 95000,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792471023125_ey78.jpg",
+      "created_at": "2026-10-20 04:37:03",
+      "updated_at": "2026-10-20 04:37:03"
     },
     {
       "id": "P-1792039270148",
@@ -2186,7 +2330,7 @@
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 2,
+      "current_stock": 1,
       "cost_per_base_unit": 2500,
       "price_per_base_unit": 3200,
       "price_per_pound": null,
@@ -2194,7 +2338,7 @@
       "promo": null,
       "image": "/data/images/cloud_P-1790100389800_727aab66.jpg",
       "created_at": "2026-09-22 18:06:30",
-      "updated_at": "2026-10-14 21:56:40"
+      "updated_at": "2026-10-20 23:43:28"
     },
     {
       "id": "P-1791486074827",
@@ -2240,7 +2384,7 @@
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 9,
+      "current_stock": 8,
       "cost_per_base_unit": 28000,
       "price_per_base_unit": 3000,
       "price_per_pound": null,
@@ -2248,35 +2392,35 @@
       "promo": null,
       "image": "/data/images/prod_1792437683324_3q4j.jpg",
       "created_at": "2026-10-19 19:21:23",
-      "updated_at": "2026-10-19 19:21:44"
+      "updated_at": "2026-10-20 23:59:29"
     },
     {
       "id": "P-1790635363581",
-      "name": "Tapetes Marca Petys",
+      "name": "Tapetes Marca Petys Grande",
       "category": "objetos_mascotas",
       "sku": "5422883511914",
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 1,
-      "cost_per_base_unit": 22000,
-      "price_per_base_unit": 27000,
+      "current_stock": 2,
+      "cost_per_base_unit": 28000,
+      "price_per_base_unit": 35000,
       "price_per_pound": null,
       "price_per_package": null,
       "promo": null,
       "image": "/data/images/prod_1790635363565_bhm4.jpg",
       "created_at": "2026-09-28 22:42:43",
-      "updated_at": "2026-10-14 23:01:14"
+      "updated_at": "2026-10-21 00:05:48"
     },
     {
       "id": "P-1790169283186",
-      "name": "Tapetes Marca Petys Unidad",
+      "name": "Tapetes Marca Petys Unidad pequeños",
       "category": "comida_de_mascotas",
       "sku": "6037759330052",
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 11,
+      "current_stock": 0,
       "cost_per_base_unit": 1834,
       "price_per_base_unit": 2500,
       "price_per_pound": null,
@@ -2284,7 +2428,43 @@
       "promo": null,
       "image": "/data/images/prod_1792018848475_knkl.jpg",
       "created_at": "2026-09-23 13:14:43",
-      "updated_at": "2026-10-19 19:03:58"
+      "updated_at": "2026-10-21 00:01:00"
+    },
+    {
+      "id": "P-1792470557836",
+      "name": "Tapetes Misty Pet",
+      "category": "objetos_mascotas",
+      "sku": "9931538158433",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 12,
+      "cost_per_base_unit": 14000,
+      "price_per_base_unit": 2300,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792470557830_ffwb.jpg",
+      "created_at": "2026-10-20 04:29:17",
+      "updated_at": "2026-10-20 04:30:08"
+    },
+    {
+      "id": "P-1792470749550",
+      "name": "Tapetes Misty Pet   Paquete x 12",
+      "category": "objetos_mascotas",
+      "sku": "6910497330967",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 1,
+      "cost_per_base_unit": 14000,
+      "price_per_base_unit": 23000,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792470749527_0z9b.jpg",
+      "created_at": "2026-10-20 04:32:29",
+      "updated_at": "2026-10-20 04:32:43"
     },
     {
       "id": "P-1790100690726",
@@ -2323,6 +2503,42 @@
       "updated_at": "2026-10-14 22:22:35"
     },
     {
+      "id": "P-1792472181482",
+      "name": "chunky Cachorro Pollo 9kg",
+      "category": "comida_de_mascotas",
+      "sku": "3379974196215",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 11,
+      "cost_per_base_unit": 73950,
+      "price_per_base_unit": 89000,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792472181466_6hy7.jpg",
+      "created_at": "2026-10-20 04:56:21",
+      "updated_at": "2026-10-20 04:56:21"
+    },
+    {
+      "id": "P-1792471981027",
+      "name": "chunky gatos original 8kg",
+      "category": "comida_de_mascotas",
+      "sku": "5567626317190",
+      "sale_mode": "unit",
+      "package_name": "Unidad",
+      "package_size": 1,
+      "current_stock": 1,
+      "cost_per_base_unit": 62600,
+      "price_per_base_unit": 74000,
+      "price_per_pound": null,
+      "price_per_package": null,
+      "promo": null,
+      "image": "/data/images/prod_1792471980998_xkou.jpg",
+      "created_at": "2026-10-20 04:53:01",
+      "updated_at": "2026-10-20 04:53:01"
+    },
+    {
       "id": "P-1791054212643",
       "name": "dogourmet concentrado leche 1k",
       "category": "comida_de_mascotas",
@@ -2330,7 +2546,7 @@
       "sale_mode": "unit",
       "package_name": "Unidad",
       "package_size": 1,
-      "current_stock": 2,
+      "current_stock": 1,
       "cost_per_base_unit": 11900,
       "price_per_base_unit": 14500,
       "price_per_pound": null,
@@ -2338,7 +2554,7 @@
       "promo": null,
       "image": "/data/images/prod_1791054212626_vvqi.jpg",
       "created_at": "2026-10-03 19:03:32",
-      "updated_at": "2026-10-19 19:15:44"
+      "updated_at": "2026-10-20 23:44:02"
     },
     {
       "id": "P-1790704928577",
@@ -2368,13 +2584,13 @@
       "package_size": 1,
       "current_stock": 1,
       "cost_per_base_unit": 175000,
-      "price_per_base_unit": 190000,
+      "price_per_base_unit": 195000,
       "price_per_pound": null,
       "price_per_package": null,
       "promo": null,
       "image": "/data/images/prod_1790718168532_6ayx.jpg",
       "created_at": "2026-09-29 21:42:48",
-      "updated_at": "2026-09-29 21:42:48"
+      "updated_at": "2026-10-20 18:59:30"
     },
     {
       "id": "P-1790718525748",
