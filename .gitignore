@@ -1,0 +1,7 @@
+# Scripts de mantenimiento
+*.bat
+*.py
+__pycache__/
+*.zip
+.vscode/
+.DS_Store
